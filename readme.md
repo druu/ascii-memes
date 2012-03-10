@@ -17,6 +17,7 @@ Type the name prefixed with 'meme_' and hit TAB.
 	meme_dunno        => Hell I don't know          => ¯＼(º_o)/¯
 	meme_happy        => Happy face                 => ツ
 	meme_tableflip    => Table flip guy             => (╯°□°）╯︵ ┻━┻
+	meme_tableflip2   => Table flip guy 2           => ┻━┻ ︵╰(°□°)╯︵ ┻━┻
 	meme_tableputback => Table put back guy         => ┬──┬ ﻿ノ( ゜-゜ノ)
 	meme_tablethrow   => Table throw guy            => (ノಠ益ಠ)ノ彡┻━┻
 	meme_yeah         => Shades YEEEEAAAAAH         => (-■_■)
