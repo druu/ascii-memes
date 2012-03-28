@@ -15,6 +15,7 @@ Type the name prefixed with 'meme_' and hit TAB.
 	meme_cry          => Crying look of disapproval => ಥ_ಥ
 	meme_disapp       => Look of disapproval        => ಠ_ಠ
 	meme_dunno        => Hell I don't know          => ¯＼(º_o)/¯
+	meme_fu           => 'F' YOU!                   => ╭∩╮(Ο_Ο)╭∩╮
 	meme_happy        => Happy face                 => ツ
 	meme_tableflip    => Table flip guy             => (╯°□°）╯︵ ┻━┻
 	meme_tableflip2   => Table flip guy 2           => ┻━┻ ︵╰(°□°)╯︵ ┻━┻
